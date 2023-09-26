@@ -1,1 +1,1 @@
-console.log('Hello World!')
+console.log('Hello World!') //wakes up console also has to be set up in index.html
